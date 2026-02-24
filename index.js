@@ -3,14 +3,14 @@ const startScreen = document.getElementById("startScreen");
 const startBtn = document.getElementById("startBtn");
 let inputDir = { x: 0, y: 0 }
 
-let foodSound = new Audio('./munch-sound-effect.mp3')
+let foodSound = new Audio('./assets/munch-sound-effect.mp3')
 
-let gameOverSound = new Audio('/die.mp3')
+let gameOverSound = new Audio('./assets/die.mp3')
 
-let moveSound = new Audio('/flap.mp3')
-let points = new Audio('./point.mp3')
+let moveSound = new Audio('./assets/flap.mp3')
+let points = new Audio('./assets/point.mp3')
 
-let musicSound = new Audio('./smooth.mpeg')
+let musicSound = new Audio('./assets/smooth.mpeg')
 
 const easy = document.getElementById('easy')
 const medium = document.getElementById('medium')
