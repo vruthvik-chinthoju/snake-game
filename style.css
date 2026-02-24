@@ -157,7 +157,7 @@ nav {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        border:3px solid  yellowgreen;
+        /* border:3px solid  yellowgreen; */
     }
     .box{
         height: 300px;
@@ -222,7 +222,7 @@ nav {
 @media screen and (max-width:800px) {
     #board {
         width: 97vmin;
-        height: 1002vmin;
+        height: 97vmin;
         margin-bottom: 100px;
     }
     .buttons {
