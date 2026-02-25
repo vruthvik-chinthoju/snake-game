@@ -82,81 +82,6 @@ A modern browser-based Snake Game built using **HTML, CSS, and JavaScript** with
 
 ---
 
-## 🎮 Features
-
-- ✅ Classic Snake gameplay
-- 🎯 Easy / Medium / Hard modes
-- 🔊 Sound effects and background music
-- 🏆 High score saved using LocalStorage
-- ⚡ Smooth movement and animations
-- 🎮 Start screen with modern UI
-- 📱 Responsive layout for different screen sizes
-
----
-
-## 🖼️ Preview
-
-<img width="800" alt="Snake Game Preview" src="https://snake-gameeee.netlify.app/" />
-
----
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla JS)**
-- Browser Local Storage API
-- HTML5 Audio API
-
----
-
-## 🚀 How to Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/vruthvik-chinthoju/snake-game.git
-
-# Open folder
-cd snake-game
-
-# Run
-Open index.html in your browser
-```
-
----
-
-## 🎯 Controls
-
-| Key | Action |
-|-----|--------|
-| ⬆️⬇️⬅️➡️ | Move Snake |
-| Mode Buttons | Change Difficulty |
-| Any Key | Start Game |
-| Sound | Play / Pause Music |
-
----
-
-## 📊 Game Modes
-
-- 🟢 Easy — Slow speed (Beginner Friendly)
-- 🟡 Medium — Balanced gameplay
-- 🔴 Hard — Fast & challenging
-
----
-
-## 💡 Learning Goals
-
-This project helped me practice:
-
-- DOM Manipulation
-- Game loops & animation timing
-- Event listeners and keyboard controls
-- Collision detection logic
-- LocalStorage data handling
-- Debugging real browser issues
-- Responsive layout design
-
----
 
 ## 🌐 Live Project
 
@@ -167,13 +92,16 @@ This project helped me practice:
 ## 📸 Screenshots
 
 ### 🎮 Start Screen
-![Start Screen](screenshots/start.png)
+![Start Screen](screenshots/Screenshot%202026-02-24%20083354.png)
 
 ### 🐍 Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/Screenshot%202026-02-25%20161306.png)
 
 ### 💀 Game Over
-![Game Over](screenshots/gameover.png)
+![Game Over](screenshots/Screenshot%202026-02-25%20161334.png)
+
+### 📱Mobile 
+![Game Over](screenshots/Screenshot%202026-02-25%20161448.png)
 
 ---
 
@@ -223,14 +151,3 @@ If you like this project, consider giving it a ⭐ on GitHub!
 👉 https://snake-gameeee.netlify.app/
 
 ---
-
-## 👨‍💻 Author
-
-**Ruthvik**  
-Built with 💖 as part of my web development journey.
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
