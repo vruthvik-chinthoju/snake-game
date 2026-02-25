@@ -19,8 +19,7 @@ A modern browser-based Snake Game built using **HTML, CSS, and JavaScript** with
 
 ## 🖼️ Preview
 
-<img width="800" alt="Snake Game Preview" src="https://snake-gameeee.netlify.app/" />
-
+![Snake Gameplay](screenshots/snake_game_ultra_pro.gif)
 ---
 
 ## 🛠️ Tech Stack
@@ -74,18 +73,6 @@ This project helped me practice:
 - Event listeners
 - LocalStorage handling
 - Responsive layout design
-# 🐍 Snake Game — Made by Ruthvik
-
-A modern browser-based Snake Game built using **HTML, CSS, and JavaScript** with multiple difficulty modes, sound effects, and score tracking.
-
-🔗 **Live Demo:** https://snake-gameeee.netlify.app/
-
----
-
-
-## 🌐 Live Project
-
-👉 https://snake-gameeee.netlify.app/
 
 ---
 
